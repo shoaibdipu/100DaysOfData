@@ -15,3 +15,7 @@
 # ◉ Day 004 [26 November 2021]
 * Content : ML Zoomcamp by [Alexey Grigorev](https://alexeygrigorev.com) | [[Repo](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)]
 * Covered Session 9 : __Serverless Deep Learning__ | [[Repo](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/09-serverless)]
+
+# ◉ Day 005 [27 November 2021]
+* Content : 100 NumPy Exercises by Nicolas Rougier | [[Repo](https://github.com/rougier/numpy-100)] | [[Problems](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.md)]
+* Solved a large portion of the problems from this repo. | [[Hints](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises_with_hints.md)] | [[Hints w/ Solution](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises_with_hints_with_solutions.md)]
