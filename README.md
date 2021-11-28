@@ -21,5 +21,5 @@
 * Solved a large portion of the problems from this repo. | [[Hints](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises_with_hints.md)] | [[Hints w/ Solution](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises_with_hints_with_solutions.md)]
 
 # ◉ Day 006 [28 November 2021]
-* Content : Linear Algebra Done Right by Sheldon Axler | [[Site](https://linear.axler.net/)] | [[Lecture Videos](https://linear.axler.net/LADRvideos.html)]
+* Content : Linear Algebra Done Right by [Sheldon Axler](https://axler.net/) | [[Site](https://linear.axler.net/)] | [[Lecture Videos](https://linear.axler.net/LADRvideos.html)]
 * Covered [Section 1.A: Rn and Cn](https://www.youtube.com/watch?v=lsRbaLl0PL8) | [Section 1.B: Definition of Vector Space](https://www.youtube.com/watch?v=rk__T8_kVc8) | [Section 1.C: Subspaces](https://www.youtube.com/watch?v=IG-aN3VHr1I) | [Section 2.A: Span and Linear Independence](https://www.youtube.com/watch?v=cRCaud-3AsY) | [Section 2.B: Bases](https://www.youtube.com/watch?v=mksFS97_RMs)
