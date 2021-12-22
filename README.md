@@ -32,3 +32,8 @@
 ## Day 007 [02 December 2021]
 - Content : SQL for Data Analysts and Data Scientists IN 1 HOUR by [Shashank Kalanithi](https://shashankkalanithi.com/) 
   - Covered this whole Course Lecture of 53:19 Mins. | [[Youtube Link](https://www.youtube.com/watch?v=gwp3dJUsy5g)] | [[Notes](https://www.notion.so/SQL-for-Data-Analysts-a15cb656fbf74427a7c1f69185916170)] | [[Course Files](https://drive.google.com/drive/folders/1t1l7mcnhxN0rvYH-WTSSSuwocyTujXAl)]
+
+## Day 008 [07 December 2021]
+- Content : [Medical Imaging with Deep Learning Tutorial](https://www.youtube.com/playlist?list=PLheiZMDg_8ufxEx9cNVcOYXsT3BppJP4b) by [Joseph Paul Cohen](https://josephpcohen.com/)
+  - Covered all 5 lectures of this playlist
+
