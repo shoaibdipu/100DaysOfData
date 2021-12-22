@@ -37,3 +37,6 @@
 - Content : [Medical Imaging with Deep Learning Tutorial](https://www.youtube.com/playlist?list=PLheiZMDg_8ufxEx9cNVcOYXsT3BppJP4b) by [Joseph Paul Cohen](https://josephpcohen.com/)
   - Covered all 5 lectures of this playlist
 
+## Day 008 [10 December 2021]
+- Content : [Select Movies with Python - Web Scraping Tutorial](https://www.youtube.com/watch?v=FoPPgcpSmNs) by [Patrick Loeber (Python Engineer)](https://www.python-engineer.com/)
+  - Covered this web scrapping tutorial 
