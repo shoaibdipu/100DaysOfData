@@ -38,5 +38,5 @@
   - Covered all 5 lectures of this playlist
 
 ## Day 008 [10 December 2021]
-- Content : [Select Movies with Python - Web Scraping Tutorial](https://www.youtube.com/watch?v=FoPPgcpSmNs) by [Patrick Loeber (Python Engineer)](https://www.python-engineer.com/)
+- Content :  Select Movies with Python - Web Scraping Tutorial by [Patrick Loeber (Python Engineer)](https://www.python-engineer.com/) | [[Youtube](https://www.youtube.com/watch?v=FoPPgcpSmNs)] | [[GitHub](https://github.com/python-engineer/python-fun/blob/master/moviepicker/main.py)]
   - Covered this web scrapping tutorial 
