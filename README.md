@@ -42,5 +42,5 @@
   - Covered this web scrapping tutorial 
 
 ## Day 010 [18 December 2021]
-- Content : Transformers Meet Active Learning: Less Data, Better Performance by [Amine Elhattami](https://amine-elhattami.medium.com) | [[Medium Article](https://towardsdatascience.com/transformers-meet-active-learning-less-data-better-performance-4cf931517ff6)] | [[Colab Notebook](https://colab.research.google.com/github/Am1n3e/active-learning-transformer/blob/main/active_learning_transformer.ipynb)] | [[GitHub Repo](https://github.com/Am1n3e/active-learning-transformer)]
+- Content : Transformers Meet Active Learning: Less Data, Better Performance by [Amine Elhattami](https://amine-elhattami.medium.com) | [[Article](https://towardsdatascience.com/transformers-meet-active-learning-less-data-better-performance-4cf931517ff6)] | [[Colab Notebook](https://colab.research.google.com/github/Am1n3e/active-learning-transformer/blob/main/active_learning_transformer.ipynb)] | [[GitHub Repo](https://github.com/Am1n3e/active-learning-transformer)]
   - Went through this hands-on tutorial on how to use Active Learning with Transformer models. 
