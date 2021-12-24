@@ -44,3 +44,7 @@
 ## Day 010 [18 December 2021]
 - Content : Transformers Meet Active Learning: Less Data, Better Performance by [Amine Elhattami](https://amine-elhattami.medium.com) | [[Article](https://towardsdatascience.com/transformers-meet-active-learning-less-data-better-performance-4cf931517ff6)] | [[Colab Notebook](https://colab.research.google.com/github/Am1n3e/active-learning-transformer/blob/main/active_learning_transformer.ipynb)] | [[GitHub Repo](https://github.com/Am1n3e/active-learning-transformer)]
   - Went through this hands-on tutorial on how to use Active Learning with Transformer models. 
+
+## Day 011 [23 December 2021]
+- Content : Remote Sensing: Deep Learning for Land Cover Classification of Satellite Imagery Using Python by [Syam kakarla](https://github.com/syamkakarla98) | [[Medium](https://medium.com/geekculture/remote-sensing-deep-learning-for-land-cover-classification-of-satellite-imagery-using-python-6a7b4c4f570f)] | [[GitHub Repo](https://github.com/syamkakarla98/Satellite_Imagery_Analysis)]
+  - Went through this detailed explanation and Implementation of the 3D-CNN model for land cover classification of satellite imagery using Python.
