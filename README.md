@@ -48,3 +48,9 @@
 ## Day 011 [23 December 2021]
 - Content : Remote Sensing: Deep Learning for Land Cover Classification of Satellite Imagery Using Python by [Syam kakarla](https://github.com/syamkakarla98) | [[Medium](https://medium.com/geekculture/remote-sensing-deep-learning-for-land-cover-classification-of-satellite-imagery-using-python-6a7b4c4f570f)] | [[GitHub Repo](https://github.com/syamkakarla98/Satellite_Imagery_Analysis)]
   - Went through this detailed explanation and Implementation of the 3D-CNN model for land cover classification of satellite imagery using Python.
+
+## Day 012 [29 December 2021]
+- Content : Learn Gradio - Python ML App Tutorial - Full Course for Beginners & Intermediate ML Engineers by [1littlecoder](https://twitter.com/1littlecoder) | [[Youtube](https://www.youtube.com/watch?v=BuKBe7jHGrY)] | [[GitHub Repo](https://github.com/amrrs/gradio-course-2021)]
+  - Covered this video and got to learn about Gradio Components, Gradio Multiple inputs, Debugging & Flagging, Improving UI + UX, Gradio Sharing + Auth and Deploying DL Gradio App with Hugging Face Spaces. 
+- Accompanying Paper: ["Gradio: Hassle-Free Sharing and Testing of ML Models in the Wild"](https://arxiv.org/pdf/1906.02569.pdf), *ICML HILL 2019*
+  - Went through this accompaniyng paper shared by Gradio on their [GitHub Repository](https://github.com/gradio-app/gradio). The authors carried out a case study to understand Gradio’s usefulness and usability in the setting of a machine learning collaboration between a researcher and a cardiologist. 
