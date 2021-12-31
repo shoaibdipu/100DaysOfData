@@ -54,3 +54,9 @@
   - Covered this video and got to learn about Gradio Components, Gradio Multiple inputs, Debugging & Flagging, Improving UI + UX, Gradio Sharing + Auth and Deploying DL Gradio App with Hugging Face Spaces. 
 - Accompanying Paper: ["Gradio: Hassle-Free Sharing and Testing of ML Models in the Wild"](https://arxiv.org/pdf/1906.02569.pdf), *ICML HILL 2019*
   - Went through this accompanying paper shared by Gradio on their [GitHub Repository](https://github.com/gradio-app/gradio). The authors carried out a case study to understand Gradio’s usefulness and usability in the setting of a machine learning collaboration between a researcher and a cardiologist. 
+
+## Day 013 [31 December 2021]
+- Content : Book Chapter : 'Approaching ensembling and stacking' from the Book [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost) by [Abhishek Thakur](https://twitter.com/abhi1thakur)
+  - Went through this chapter to revise the concepts of Ensembling and Stacking and tried the worked out examples. 
+- Content : [Ensembling, Blending & Stacking](https://youtu.be/TuIgtitqJho) by [Abhishek Thakur](https://twitter.com/abhi1thakur)
+  - Went through this hands on tutorial on Ensembling, Blending and Stacking and tried the examples.
