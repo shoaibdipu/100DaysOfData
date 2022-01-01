@@ -60,3 +60,7 @@
   - Went through this chapter to revise the concepts of Ensembling and Stacking and tried the worked out examples. 
 - Content : [Ensembling, Blending & Stacking](https://youtu.be/TuIgtitqJho) by [Abhishek Thakur](https://twitter.com/abhi1thakur)
   - Went through this hands on tutorial on Ensembling, Blending and Stacking and tried the examples.
+
+## Day 014 [01 January 2022]
+- Content : Scientific Visualization: Python + Matplotlib by Nicolas Rougier | [[Site](https://www.labri.fr/perso/nrougier/scientific-visualization.html)] [[Repo](https://github.com/rougier/scientific-visualization-book)] [[PDF](https://hal.inria.fr/hal-03427242/document)]
+- Covered Chapter 4 : __Elements of typography__ [Fundamentals] | [[Repo](https://github.com/rougier/scientific-visualization-book/tree/master/code/typography)]
